@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:Join Dr. Brad Fox the Associate Dean of Master’s Programs and Bridget Fletcher the Managing Director of Graduate Student Programs and Services as they welcome you to Duke University and the Pratt School of Engineering. Topics covered will include:   Mission and Vision of Duke Engineering   Structure of Student Support   Duke Community Standard and Plagiarism   Student Services   Health and Well-Being   Safety at Duke and in Durham This will be offered as a hybrid session. Students who have arrived in Durham are invited to join us in person, others are encouraged to join us virtually by logging in through their Duke Zoom account.
+DTEND;TZID="Eastern Standard Time":20220819T110000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220819T090000
+LOCATION:Join via  Duke Zoom Account HERE Password: 424226  OR  Gross Hall 107
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Engineering Master’s Programs Administrative Welcome
+TRANSP:OPAQUE
+UID:2ae3eaf6-fe75-43e8-a0ec-ce3fb823f106
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:Artificial Intelligence for Product Innovation, Cybersecurity, Engineering Management, and Financial Technology programs  Experience orientation in a fun and competitive way! This team-based programming will have you learning about the Pratt School of Engineering and exploring Duke’s campus as you complete missions and earn points. Prizes will be awarded to the top team. Wear comfortable shoes and attire appropriate for the weather. If it happens to rain, an umbrella will be handy! Please download the GooseChase IOS or Android app ahead of time from: https://www.goosechase.com/download/.
+DTEND;TZID="Eastern Standard Time":20220822T110000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220822T090000
+LOCATION:Gross Hall 107
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Engineering Master’s Programs Community Building Event for students from the
+TRANSP:OPAQUE
+UID:510871d2-415c-47f4-ba98-56cb76bfdf4f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:Intelligence for Product Innovation, Cybersecurity, Engineering Management, and Financial Technology programs  Meet staff, faculty, and students from the Engineering Master’s Programs on the Harrington Engineering Quadrangle to enjoy a cold treat while you network with your new community. We will also have a photo opportunity, lawn games, and grab-and- go meals.
+DTEND;TZID="Eastern Standard Time":20220822T120000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220822T110000
+LOCATION:Harrington Engineering Quadrangle
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Engineering Master’s Programs Check-In and Social for students from the Artificial
+TRANSP:OPAQUE
+UID:8cb77235-66eb-46eb-978e-d14409bf7b87
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:All Duke students who will reside in North Carolina must comply with Duke University’s Immunization Requirements and submit the Mandatory Immunization Requirements Form and TB Screening Questionnaire. If you were unable to complete your immunizations requirements before arriving, please attend one of the two clinics being hosted for Engineering Master’s Students.
+DTEND;TZID="Eastern Standard Time":20220823T130000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T110000
+LOCATION:Penn Pavilion
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Immunization Clinic for Engineering Master’s Students
+TRANSP:OPAQUE
+UID:7720f7e8-2c5a-4a7f-9d3f-c36db0fb6aaa
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:(Optional – no registration required)  Do you have questions and not know who to ask? Stop by the Graduate Student Programs and Services Drop-in Office Hours. Staff will be available to answer those quick questions you have as you get settled at Duke.
+DTEND;TZID="Eastern Standard Time":20220824T130000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220824T110000
+LOCATION:Teer 114
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Graduate Student Programs and Services Drop-In Office Hours
+TRANSP:OPAQUE
+UID:67e67604-30bf-4338-8775-b92d5b2994ff
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:All Duke students who will reside in North Carolina must comply with Duke University’s Immunization Requirements and submit the Mandatory Immunization Requirements Form and TB Screening Questionnaire. If you were unable to complete your immunizations requirements before arriving, please attend one of the two clinics being hosted for Engineering Master’s Students.
+DTEND;TZID="Eastern Standard Time":20220825T140000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T120000
+LOCATION:Penn Pavilion
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Immunization Clinic for Engineering Master’s Students
+TRANSP:OPAQUE
+UID:13e3ca90-321e-4925-b68f-342c6f0565a6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:All international student with a visa, enrolled in an on-campus program, and arriving at Duke for the first time this Fall must register with Duke Visa Services within 30 days of arriving in the United States. This visa registration session is for newly arriving Master of Engineering, Master of Engineering Management, and Master of Science students. Students will submit required documentation that confirms their visa status to their visa advisor. If you are not able to attend,
+DTEND;TZID="Eastern Standard Time":20220826T150000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T130000
+LOCATION:Schiciano Auditorium
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Drop-In Visa Registration for International Students
+TRANSP:OPAQUE
+UID:27352f12-d1d6-4de4-899d-5fce669caacb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:(Optional – registration required)  We invite you to take part in our Community Conversations event where we will use Story Circles to build community with engineering peers. You will get to know others whose stories may be quite different from yours and get a chance to share yours too. Registration is limited to 75 students. Register HERE
+DTEND;TZID="Eastern Standard Time":20220826T140000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T130000
+LOCATION:Wilkinson 126
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Community Conversations Story Circle Event
+TRANSP:OPAQUE
+UID:26c3937b-c4f8-4f18-9c70-1df5f6501bac
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:(Optional – registration required)  KORU Mindfulness is a method of mindfulness, meditation, and stress management designed for emerging adults, ages 18-29, but is suitable for all ages interested in beginning or re-engaging with their mindfulness practice. Individuals who have taken KORU courses indicate improvements in several areas: better sleep, increased self-awareness, sharper focus, and reduced anxiety. Several 4- week sessions will be offered throughout the fall semester as an opportunity to dive deeper into the
+DTEND;TZID="Eastern Standard Time":20220826T150000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T140000
+LOCATION:Wilkinson 132
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Introduction to KORU Mindfulness
+TRANSP:OPAQUE
+UID:702399b8-e977-4aae-9b96-dd62472606a8
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:(Optional – no registration required)  This is your chance to mingle and unwind after a busy week! Join the Engineering Graduate Student Council (EGSC) on the Harrington Engineering Quadrangle for this student led social event. A free alcoholic or non-alcoholic beverage will be provided to participants, be sure to bring you state and Duke IDs.
+DTEND;TZID="Eastern Standard Time":20220826T173000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T163000
+LOCATION:Harrington Engineering Quadrangle
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:“Pratt Chat” Social Event
+TRANSP:OPAQUE
+UID:7aac25b2-adeb-4808-990a-410ac8eae0bd
+END:VEVENT
+END:VCALENDAR

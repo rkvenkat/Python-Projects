@@ -1,0 +1,573 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220822T080000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220822T070000
+LOCATION:nan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:MEM Principle: Teamwork – Leading and contributing to high performing teams  
+TRANSP:OPAQUE
+UID:c9b3dafa-184f-4d19-9ab8-ea9f20d11851
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:Experience orientation in a fun and competitive way! This team-based programming will have you learning about the Pratt School of Engineering and exploring Duke’s campus as you complete missions and earn points. Prizes will be awarded to the top team. Wear comfortable shoes and attire appropriate for the weather. If it happens to rain, an umbrella will be handy! Please download the GooseChase IOS or Android app ahead of time from: https://www.goosechase.com/download/
+
+
+DTEND;TZID="Eastern Standard Time":20220822T110000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220822T090000
+LOCATION: Gross Hall 107
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Engineering Master’s Programs Community Building Event  
+TRANSP:OPAQUE
+UID:25998800-d909-4f96-8b74-ec983e5140ce
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:Meet staff, faculty, and students from the Engineering Master’s Programs on the Harrington Engineering Quadrangle to enjoy a cold treat while you network with your new community. We will also have a photo opportunity, lawn games, and grab-and-go meals.
+
+
+DTEND;TZID="Eastern Standard Time":20220822T120000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220822T110000
+LOCATION: Harrington Engineering Quadrangle
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Engineering Master’s Programs Check-in and Social  
+TRANSP:OPAQUE
+UID:a5f46c4b-6999-4586-96bf-34bfbfd8ab2c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220822T133000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220822T130000
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Director’s Welcome  
+TRANSP:OPAQUE
+UID:24ef766e-3f8e-4f5b-bb58-7d8f32bcb296
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220822T150000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220822T133000
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Academic Overview & Curriculum Tracks  
+TRANSP:OPAQUE
+UID:c6498150-18cf-4dfc-b135-3a54ba1e115a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:Gather with your SLAM Team to get answers to questions related to the MEM program, university resources, and things to do in Durham. Your SLAM Team leader will continue to act as an advisor for your group during your first few weeks of school. You can read more about the 2022 SLAM Team leaders here.  Presenter: Rachel Mwombela, Assistant Director of Student Services, Master of Engineering Management
+
+Presenter: Rachel Mwombela, Assistant Director of Student Services, Master of Engineering Management
+DTEND;TZID="Eastern Standard Time":20220822T173000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220822T150000
+LOCATION: See breakout schedule
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Meet Your SLAM Team  
+TRANSP:OPAQUE
+UID:c5634c24-9abd-46c5-b381-d8dfa3ee9d2e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220823T080000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T070000
+LOCATION:nan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:MEM Principle: Communication – Communicating with clarity and effectiveness  
+TRANSP:OPAQUE
+UID:912baca4-db80-4a6d-be8a-397730e25527
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220823T090000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T083000
+LOCATION: Fitzpatrick Center Atrium, Ground Level
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Breakfast with classmates  
+TRANSP:OPAQUE
+UID:f5be0d41-bf2a-43b1-aea6-efb55ba16053
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: Presenter: Jenny Sloop Johnson, Assistant Director of Career Services, Professional Masters Programs
+
+Presenter: Jenny Sloop Johnson, Assistant Director of Career Services, Professional Masters Programs
+DTEND;TZID="Eastern Standard Time":20220823T103000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T091500
+LOCATION: Fitzpatrick Center, Schiciano Auditorium A & B
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Career & Professional Development  Groups 1, 3, 5, 7
+TRANSP:OPAQUE
+UID:1f097dc3-2c90-4ef1-8456-88fccd5d226b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: Join us for an interactive session to learn about and practice effective techniques for communicating at Duke and beyond. Participants will leave with new strategies for intercultural communications, classroom participation, writing concisely, and email etiquette for academic and networking purposes.
+
+Presenters: Ilana Palmer, Med, Communications Consultant and Marcie Pachino, MAT, Communications Consultant, Graduate Communications and Intercultural Programs
+DTEND;TZID="Eastern Standard Time":20220823T103000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T091500
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Tips for Communicating Clearly & Professionally  Groups 2, 4, 6, 8
+TRANSP:OPAQUE
+UID:e8d1ac43-98c1-4869-9d93-5f1a776c54b8
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220823T114500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T103000
+LOCATION: Fitzpatrick Center, Schiciano Auditorium A & B
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Elective course preview  Groups 1, 3, 5, 7
+TRANSP:OPAQUE
+UID:977f208e-e64e-4b69-a401-7e660fe1a05e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: During your time in MEM you will work on multiple teams with people that operate very differently from you. Teamwork can sometimes be amazing and sometimes be frustrating. We want it to lean toward amazing, but that takes work! In this workshop we will examine some potential areas of miscommunication on teams and explore opportunities to increase collaboration and minimize communication missteps on teams.  
+
+Presenter: Bridget Fletcher, Managing Director, Graduate Student Programs and Services Adjunct Assistant Professor
+DTEND;TZID="Eastern Standard Time":20220823T114500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T103000
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Effective Team Collaborations  Groups 2, 4, 6, 8
+TRANSP:OPAQUE
+UID:683d36c9-32e5-43e3-b347-81c9811e94e4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220823T133000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T114500
+LOCATION: Duke Dining location of your choice
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Lunch  
+TRANSP:OPAQUE
+UID:32f82aa7-0769-4633-b8a2-380aa015b866
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: Join us for an interactive session to learn about and practice effective techniques for communicating at Duke and beyond. Participants will leave with new strategies for intercultural communications, classroom participation, writing concisely, and email etiquette for academic and networking purposes.
+
+Presenters: Ilana Palmer, Med, Communications Consultant and Minerva Matos-Garner, MA, Communications Consultant, Graduate Communications and Intercultural Programs
+DTEND;TZID="Eastern Standard Time":20220823T150000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T134500
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Tips for Communicating Clearly & Professionally  Groups 1, 3, 5, 7
+TRANSP:OPAQUE
+UID:c65a850b-6b8e-48ec-9396-4a93ecaa4ca1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220823T150000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T134500
+LOCATION: Fitzpatrick Center, Schiciano Auditorium A & B
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Career & Professional Development  Groups 1, 3, 5, 7
+TRANSP:OPAQUE
+UID:dada3c94-9acd-47b0-a271-4ee8bbd2e476
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: During your time in MEM you will work on multiple teams with people that operate very differently from you. Teamwork can sometimes be amazing and sometimes be frustrating. We want it to lean toward amazing, but that takes work! In this workshop we will examine some potential areas of miscommunication on teams and explore opportunities to increase collaboration and minimize communication missteps on teams.  
+
+Presenter: Bridget Fletcher, Managing Director, Graduate Student Programs and Services Adjunct Assistant Professor
+DTEND;TZID="Eastern Standard Time":20220823T161500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T150000
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Effective Team Collaborations  Groups 1, 3, 5, 7
+TRANSP:OPAQUE
+UID:ce0a73d7-426f-46c3-8192-5e28f519ed6c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220823T161500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220823T150000
+LOCATION: Fitzpatrick Center, Schiciano Auditorium A & B
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Elective course previews  Groups 2, 4, 6, 8
+TRANSP:OPAQUE
+UID:59f0a389-8cc2-4112-87db-6abfe53d69d6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220824T080000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220824T070000
+LOCATION:nan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:MEM Principle: Critical Thinking – Solving complex problems  
+TRANSP:OPAQUE
+UID:42165a8b-e5ed-4810-ad91-de252740ccd1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220824T090000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220824T083000
+LOCATION: Fitzpatrick Center Atrium, Ground Level
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Breakfast with classmates  
+TRANSP:OPAQUE
+UID:b696fb1a-47cd-460d-be00-209a74dc523f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:During this full day event, students will dive into a real-world business scenario to conduct analysis, identify insights, and communicate focused recommendations. The day will begin with learning about various core principles of business thinking and executive communication before applying these learnings in a mini case competition where students will compete in small groups.
+
+Presenter: Stephanie Knight, Adjunct Professor, The Fuqua School of Business and the Pratt School of Engineering
+DTEND;TZID="Eastern Standard Time":20220824T114500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220824T091500
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Case Competition  
+TRANSP:OPAQUE
+UID:061b8c52-6457-42a8-9c8a-223ced87337c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220824T133000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220824T114500
+LOCATION: Duke Dining location of your choice
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Lunch  
+TRANSP:OPAQUE
+UID:67bcd682-d261-4c4b-88b4-aa027d56c606
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220824T170000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220824T134500
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Case Competition continued  
+TRANSP:OPAQUE
+UID:21d3d60f-f1fd-406c-ba99-042281e53da3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220825T080000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T070000
+LOCATION:nan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:MEM Principle: Ethics – Developing an awareness of personal values  
+TRANSP:OPAQUE
+UID:a14deef7-5f63-4d23-a66e-6a0ce6a534f9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220825T090000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T083000
+LOCATION: Fitzpatrick Center Atrium, Ground Level
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Breakfast with classmates  
+TRANSP:OPAQUE
+UID:ca7c7bef-b91d-428f-8ffa-e46480cb087e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: What are your natural, innate talents and why should you focus on the things that you do best?  Knowledge about your strengths can play an important role in both personal and professional life.  If you can leverage your strengths on a daily basis, you can add transformational value to your organizations and colleagues.
+
+
+DTEND;TZID="Eastern Standard Time":20220825T104500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T091500
+LOCATION: Fitzpatrick Center, Schiciano Auditorium A & B
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Discover Your Strengths  Groups 1, 3, 5, 7
+TRANSP:OPAQUE
+UID:3d4f38db-87de-43d6-88d8-036828087150
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: Ethical errors end careers more quickly than any other mistake in judgment or accounting,” according to business professor Robert Solomon.  Knowing sound ethical principles provides us a framework for being a good leader and manager. This interactive session will explore two principles of ethics: 1. “Don’t do stupid stuff” and 2. “Flourish.
+
+Presenters: Allegra Jordan, Executive in Residence, Leadership/Management Adjunct Associate Professor and Ted Ryan, Executive in Residence, Pratt School of Engineering
+DTEND;TZID="Eastern Standard Time":20220825T104500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T091500
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Ethics and Leadership  Groups 2, 4, 6, 8
+TRANSP:OPAQUE
+UID:f2c8e506-ec03-4f28-9fc9-8c0a2b4d10cc
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220825T131500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T110000
+LOCATION: Duke Dining location of your choice
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Lunch  
+TRANSP:OPAQUE
+UID:1ef8edd2-34a2-4f77-a08d-980249d26231
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: Ethical errors end careers more quickly than any other mistake in judgment or accounting,” according to business professor Robert Solomon.  Knowing sound ethical principles provides us a framework for being a good leader and manager. This interactive session will explore two principles of ethics: 1. “Don’t do stupid stuff” and 2. “Flourish.
+
+Presenters: Allegra Jordan, Executive in Residence, Leadership/Management Adjunct Associate Professor and Ted Ryan, Executive in Residence, Pratt School of Engineering
+DTEND;TZID="Eastern Standard Time":20220825T150000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T133000
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Ethics and Leadership  Groups 1, 3, 5, 7
+TRANSP:OPAQUE
+UID:53dc3d3c-022c-4509-bb39-5357d467ba6d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: What are your natural, innate talents and why should you focus on the things that you do best?  Knowledge about your strengths can play an important role in both personal and professional life.  If you can leverage your strengths on a daily basis, you can add transformational value to your organizations and colleagues.
+
+Presenter: Dr. La Tondra Murray, Director, Online and Distance Education and Adjunct Professor
+DTEND;TZID="Eastern Standard Time":20220825T150000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T133000
+LOCATION: Fitzpatrick Center, Schiciano Auditorium A & B
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Discover Your Strengths  Groups 2, 4, 6, 8
+TRANSP:OPAQUE
+UID:fe2e80df-ddf8-4a05-8f87-5a9bf059b82e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220825T080000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220825T070000
+LOCATION:nan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:MEM Principle: Humanness – Valuing people and creating value for people  
+TRANSP:OPAQUE
+UID:65722771-424a-44ef-89bd-40818fcd947c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220826T093000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T083000
+LOCATION: Fitzpatrick Center Atrium, Ground Level
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Faculty advisor meet & greet breakfast  
+TRANSP:OPAQUE
+UID:7f9fcce5-2e40-49db-947c-d632b759fa05
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:What does it mean to be a part of the MEM community? In this interactive session we’ll answer that question by diving into how we all contribute to the MEM culture. We’ll examine the shared expectations for respecting each other, setting, and honoring healthy boundaries so that everyone thrives in our community.
+
+Presenter: Wendy Gates Corbett, Adjunct Professor, Pratt School of Engineering
+DTEND;TZID="Eastern Standard Time":20220826T111500
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T094500
+LOCATION: Biological Sciences Building, Room 111
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Being a part of the MEM Community  
+TRANSP:OPAQUE
+UID:59a39371-59ba-49a2-ba6f-737b12035f3b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:Celebrate the end of orientation and professionalism bootcamp with your classmates, faculty, and staff.
+
+
+DTEND;TZID="Eastern Standard Time":20220826T130000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T113000
+LOCATION: Fitzpatrick Center Atrium, Ground Level
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Luncheon  
+TRANSP:OPAQUE
+UID:7b82ba29-b1b7-4479-9cdb-b0988a691f15
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION:
+DTEND;TZID="Eastern Standard Time":20220826T080000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T070000
+LOCATION:nan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Closing remarks: Luis Morales, Executive Director, Master of Engineering Management and Adjunct Associate Professor  
+TRANSP:OPAQUE
+UID:4c42245c-fb36-41a3-9ae9-d544914ed1ec
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: We invite you to take part in our Community Conversations event where we will use Story Circles to build community with engineering peers. You will get to know others whose stories may be quite different from yours and get a chance to share yours too. Registration is limited to 75 students. Register here.
+(Optional, registration required)
+
+DTEND;TZID="Eastern Standard Time":20220826T140000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T130000
+LOCATION: Wilkinson 126
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Community Conversations Story Circle Event  
+TRANSP:OPAQUE
+UID:98b43bf2-5466-4551-b2de-946e4dfd6f7f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: KORU Mindfulness is a method of mindfulness, meditation, and stress management designed for emerging adults, ages 18-29, but is suitable for all ages interested in beginning or re-engaging with their mindfulness practice. Individuals who have taken KORU courses indicate improvements in several areas: better sleep, increased self-awareness, sharper focus, and reduced anxiety. Several 4-week sessions will be offered throughout the fall semester as an opportunity to dive deeper into the practice. Registration for this introductory session is limited to 85 students. Register here.
+(Optional, registration required)
+
+DTEND;TZID="Eastern Standard Time":20220826T150000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T140000
+LOCATION: Wilkinson 132
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Introduction to Koru Mindfulness  
+TRANSP:OPAQUE
+UID:4359cc7a-78ea-431e-a2b4-94521b25d7cf
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220723T112448Z
+DESCRIPTION: This is your chance to mingle and unwind after a busy week! Join the Engineering Graduate Student Council  on the Harrington Engineering Quadrangle for this student-led social event. A free alcoholic or non-alcoholic beverage will be provided to participants; be sure to bring you state and Duke IDs.
+(Optional, no registration required)
+
+DTEND;TZID="Eastern Standard Time":20220826T173000
+DTSTAMP:20220723T112448Z
+DTSTART;TZID="Eastern Standard Time":20220826T163000
+LOCATION: Harrington Engineering Quadrangle
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:“Pratt Chat” Social Event  
+TRANSP:OPAQUE
+UID:84ff392f-3559-4c8a-be20-81371a404503
+END:VEVENT
+END:VCALENDAR
