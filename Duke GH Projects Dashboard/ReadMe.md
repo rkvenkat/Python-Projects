@@ -1,3 +1,3 @@
 
 
-!(./Dashboard.png)
+![plot](./Dashboard.png)
